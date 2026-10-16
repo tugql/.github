@@ -28,6 +28,10 @@ It provides a dual representation with **1:1 lossless round-trip fidelity**:
 
 ---
 
+## Used in DataTug development
+
+- **DataTug:** [datatug.app](https://datatug.app) is evolving its query contract around TugQL and TugQT. [Explore the tools behind DataTug](https://datatug.app/en/under-the-hood/tools-we-built/#query).
+
 ## Implementations & Ecosystem
 
 TugQL is actively integrated across the open data stack:
